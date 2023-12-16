@@ -1,3 +1,3 @@
 # Ml-mini-projects
 
-This documents my journey into Machine learning, following all the course and books im currently reading and excersing Im complemeting.
+This repository documents my journey into machine learning, detailing all the courses and books I am currently reading, as well as the exercises I am completing.
